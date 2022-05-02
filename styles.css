@@ -1,0 +1,18 @@
+.container {
+  width: 790px;
+  margin: 0 auto;
+}
+.score {
+  display: flex;
+  justify-content: space-between;
+}
+.hands {
+  display: flex;
+  justify-content: space-between;
+}
+.player-hand {
+  transform: rotateY(180deg);
+}
+.options{
+    text-align: center;
+}
